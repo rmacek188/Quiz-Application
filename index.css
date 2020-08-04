@@ -68,6 +68,18 @@ button {
   padding: 10px 20px;
 }
 
+.question-region {
+  width:70%;
+  padding: 40px;
+  margin:0 auto;
+  background:rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+}
+
+.title-region {
+  font-weight: 700;
+  font-size: 18px;
+}
 fieldset {
   width:70%;
   padding: 40px;
